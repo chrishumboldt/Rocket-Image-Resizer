@@ -1,7 +1,8 @@
 # Folders to ignore
+images
 node_modules
 
 # Files to ignore
-test.js
 test.html
+test.js
 test.ts
