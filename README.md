@@ -10,7 +10,7 @@ npm install rocket-image-resizer
 ```
 
 ## Example Usage
-Execute the image resizer on a directory. All options are show in the example.
+Execute the image resizer on a directory. All options are shown in the example.
 
 ```javascript
 const Rir = require('rocket-image-resizer');
